@@ -1,0 +1,72 @@
+Uri: http://ptsvps.victorpublicschool.org/
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\index.htm
+Content Type: text/html
+
+Uri: http://ptsvps.victorpublicschool.org/assets/img/bg.jpg
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: http://ptsvps.victorpublicschool.org/assets/css/css.css
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\css\css.css
+Content Type: text/css
+
+Uri: http://ptsvps.victorpublicschool.org/assets/css/colorbox.css
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\css\colorbox.css
+Content Type: text/css
+
+Uri: http://ptsbridge.co.in/
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\index-1.htm
+Content Type: text/html
+
+Uri: http://ptsvps.victorpublicschool.org/forgotPassword.aspx
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\forgotPassword.aspx.html
+Content Type: text/html
+
+Uri: http://eagleeyesolution.co.in/
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\index-2.htm
+Content Type: text/html
+
+Uri: http://ptsvps.victorpublicschool.org/assets/js/libs/jquery.js
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\js\libs\jquery.js
+Content Type: application/javascript
+
+Uri: http://ptsvps.victorpublicschool.org/assets/js/libs/slick.js
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\js\libs\slick.js
+Content Type: application/javascript
+
+Uri: http://ptsvps.victorpublicschool.org/assets/js/app.js
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\js\app.js
+Content Type: application/javascript
+
+Uri: http://ptsvps.victorpublicschool.org/assets/scripts/jquery.colorbox-min.js
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\scripts\jquery.colorbox-min.js
+Content Type: application/javascript
+
+Uri: http://fonts.googleapis.com/css?family=Molengo
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\css.css
+Content Type: text/css
+
+Uri: http://ptsvps.victorpublicschool.org/assets/img/icons/ledftArrow.png
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\img\icons\ledftArrow.png
+Content Type: image/png
+
+Uri: http://ptsvps.victorpublicschool.org/assets/img/icons/rightArrow.png
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\img\icons\rightArrow.png
+Content Type: image/png
+
+Uri: http://ptsvps.victorpublicschool.org/assets/img/icons/menu.png
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\img\icons\menu.png
+Content Type: image/png
+
+Uri: http://ptsvps.victorpublicschool.org/assets/img/icons/icon-login.svg
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\img\icons\icon-login.svg
+Content Type: image/svg+xml
+
+Uri: http://ptsvps.victorpublicschool.org/assets/img/pts-login.png
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\img\pts-login.png
+Content Type: image/png
+
+Uri: http://ptsvps.victorpublicschool.org/assets/images/loading.gif
+File Name: C:\Downloaded Web Sites\ptsvps.victorpublicschool.org\assets\images\loading.gif
+Content Type: image/gif
+
